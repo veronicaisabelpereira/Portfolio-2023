@@ -1,0 +1,114 @@
+/* Estilos generales */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  /* Estilos de la sección de presentación */
+  .presentacion {
+   
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .presentacion h2 {
+    color: #333;
+  }
+  
+  .presentacion h3 {
+    color: #555;
+  }
+  
+  /* Estilos de las secciones de habilidades */
+  .habilidades {
+    margin-bottom: 30px;
+  }
+  
+  .habilidades h2 {
+    color: #333;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 10px;
+  }
+  
+  .habilidades p {
+    color: #555;
+  }
+  
+  .habilidades ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .habilidades li {
+    margin-bottom: 10px;
+  }
+  
+  /* Estilos de la sección de educación */
+  .educacion {
+    margin-bottom: 30px;
+  }
+  
+  .educacion h2 {
+    color: #333;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 10px;
+  }
+  
+  .educacion-item, .curso {
+    margin-bottom: 20px;
+  }
+  
+  .educacion-item h5, .curso h5 {
+    color: #555;
+  }
+  
+  .educacion-item h6, .curso h6 {
+    color: #777;
+  }
+  
+  .educacion-item p, .curso p {
+    color: #999;
+  }
+
+    /* Estilos de la sección de laboral */
+    .laboral {
+      margin-bottom: 30px;
+    }
+    
+    .laboral h2 {
+      color: #333;
+      border-bottom: 2px solid #ccc;
+      padding-bottom: 10px;
+    }
+    
+    .laboral-item, .curso {
+      margin-bottom: 20px;
+    }
+    
+    .laboral-item h5, .curso h5 {
+      color: #555;
+    }
+    
+    .laboral-item h6, .curso h6 {
+      color: #777;
+    }
+    
+    .laboral-item p, .curso p {
+      color: #999;
+    }
+  
+  
+    .socials{
+      width: 170px;
+      height: 170px;
+      font-size: 70px;
+      margin: auto;
+     }
+    
